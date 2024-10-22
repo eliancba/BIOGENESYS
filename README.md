@@ -19,14 +19,12 @@ La empresa busca la expansión en Latinoamérica específicamente en Colombia, A
 
 # REPOSITORIO
 
-<br> 
-
 ## CSV 
 En esta carpeta se encuentra el archivo(.csv) post procesos EDA y ETL con el que se trabajo para el dashboard. 
 
 <br>
 
-##DASHBOARD
+## DASHBOARD
 Contiene el archivo(.pbix) con el dashboard interactivo final para la presentación del proyecto realizado en Power Bi.
 
 <br>
